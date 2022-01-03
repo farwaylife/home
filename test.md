@@ -10,5 +10,6 @@
 - test
 
 # number
--- number1
---- number2
+----------------
+~ number 1
+~~ number 2
